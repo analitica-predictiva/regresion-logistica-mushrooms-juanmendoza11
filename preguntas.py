@@ -55,6 +55,7 @@ La información contenida en la muestra es la siguiente:
 
 
 """
+import pandas as pd
 
 def pregunta_01():
     """
